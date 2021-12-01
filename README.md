@@ -4,6 +4,6 @@ I'm Sahilsher Singh. This is the list of my projects for the course CS50’s Pro
 
 ## List of my Projects
 
-| Project | Name                       | Description                                                                   | Video Discription                                   |
+| Project | Name                       | Description                                                             | Languages                                   | Video Discription                                   |
 | :--- | :--------------------------- | :------------------------------------------------------------------------------- | :--------------------------------------------: |
-| 1    | <a href="https://github.com/Sandhu-Sahil/Search_Engine">Search Engine</a> | Created a search engine just like google.   | <a href="https://youtu.be/xDTB4GC4KqE">YouTube</a> |
+| 1    | <a href="https://github.com/Sandhu-Sahil/Search_Engine">Search Engine</a> | Created a search engine just like google.   | HTML, CSS, Python   | <a href="https://youtu.be/xDTB4GC4KqE">YouTube</a> |
