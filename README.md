@@ -1,4 +1,4 @@
-## Hi ![](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif | width= 5) 
+## Hi <img scr = "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5" height="5" >
 
 I'm Sahilsher Singh. This is the list of my projects for the course CS50’s Professional Web Programming with Python and JavaScript.
 
