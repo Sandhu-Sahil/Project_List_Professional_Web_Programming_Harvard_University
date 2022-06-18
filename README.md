@@ -15,6 +15,7 @@ I'm Sahilsher Singh. This is the list of my projects for the course CS50’s Pro
 | 3    | <a href="https://github.com/Sandhu-Sahil/Auctioning_Space">Auctions</a> | Created a clone of e-Bay named Auctioning Space.   | SQL, Models, Migrations, Fetch API's  | <a href="https://youtu.be/YWjoHPRyAh0">YouTube</a> |
 | 4    | <a href="https://github.com/Sandhu-Sahil/SS-Mails">Mail</a> | Created a clone of gmail named SS-Mail, Single-Page application using JavaScript    | JavaScript, Ajax, ReactJS, JSX, UI/UX  | <a href="https://youtu.be/et7H11Jrrqg">YouTube</a> |
 | 5    | <a href="https://github.com/Sandhu-Sahil/Social_Networking_Website">Social Networking</a> | Created a clone of social networking website named Network.    | Testing, CI/CD, Selenium, Git CI Testing, YAML  | <a href="https://youtu.be/hbh2ts66Ifg">YouTube</a> |
+| 6    | <a href="https://github.com/Sandhu-Sahil/Job-Genie">Capstone- Job Genie</a> | Final project of this course refer README.md for detailed discription.    | '*'  | <a href="https://youtu.be/ZM-q2rMCrl8">YouTube</a> |
 
 <br>
 
@@ -25,3 +26,5 @@ I'm Sahilsher Singh. This is the list of my projects for the course CS50’s Pro
   </a>
   <p>Harvard School of Engineering and Applied Sciences</p>
 </div>
+
+![Final Certificate](https://github.com/Sandhu-Sahil/Job-Genie/blob/master/CS50W.png)
